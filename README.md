@@ -23,18 +23,14 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- **C# Console Game**  
-  Un juego basado en la terminal desarrollado en C#.  
-  
-
 - **CRUD MySQL with Java**  
-  Aplicación en Java con MySQL para la gestión de datos.  
+  Java application that works with MySQL to access a database.  
   
 
 - **El viaje de tu abuelo a su escuela (Unity, C#)**  
-  Videojuego desarrollado en Unity sobre la aventura de un abuelo.  
+  A 3D platformer videogame where you have to reach the school at the top of a mountain, just like the stories grandfathers like to tell.  
   
 
 - **Lucas el limpiador (Unity, C#)**  
-  Videojuego de simulación donde controlas a un limpiador.  
+  A 2D platformer where you control a cleaner that destroys dirty monsters with bubbles. This game was made for a 48H gamejam.  
   
