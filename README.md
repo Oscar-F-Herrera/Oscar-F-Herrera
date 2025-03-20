@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 - **CRUD MySQL with Java**  
   Java application that works with MySQL to access a database.  
+  [You can see it here](https://youtu.be/aKVomLYqjH0)
   
-
 - **El viaje de tu abuelo a su escuela (Unity, C#)**  
   A 3D platformer videogame where you have to reach the school at the top of a mountain, just like the stories grandfathers like to tell.  
   [You can see a gameplay here](https://www.youtube.com/watch?v=s4ORkRE4fxY)
