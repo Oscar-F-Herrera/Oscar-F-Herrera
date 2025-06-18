@@ -21,3 +21,6 @@
   A 2D platformer where you control a cleaner that destroys dirty monsters with bubbles. This game was made for a 48H gamejam.  
   [You can download the game from here (PC Only)](https://chuaistaiger.itch.io/lucas-el-limpiador)
 
+## This is an example of what i can do in blender
+
+![Ferrari F40](https://github.com/user-attachments/assets/05816ed9-8503-4438-a1cf-ebc9754ac06d)
